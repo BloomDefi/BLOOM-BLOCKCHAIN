@@ -17,7 +17,7 @@ But from that baseline of EVM compatible, BLOOM BLOCKCHAIN introduces  a system 
 - **Interoperable**: Comes with efficient native dual chain communication; Optimized for scaling high-performance dApps that require fast and smooth user experience.
 - **Distributed with on-chain governance**: Proof of Staked Authority brings in decentralization and community participants. As the native token, BLOOM will serve as both the gas of smart contract execution and tokens for staking.
 
-More details in [White Paper](http://www.bloommdefi.com).
+More details in (http://www.bloomdefi.com/WhitePaper).
 
 ## Key features
 
